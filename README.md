@@ -6,6 +6,7 @@ A web-based project management tool to help track, manage, and organize tasks, d
 
 Thank you for your patience! The link to access the project will be available shortly. Stay tuned for updates, and feel free to check back soon. 🚀
 
+
 ## Features 🚀
 
 - **Project Dashboard**: View all ongoing projects, their statuses, and team assignments. 📋
